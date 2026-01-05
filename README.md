@@ -10,15 +10,15 @@ It demonstrates data cleaning, KPI calculation, profit analysis, and dashboard c
 
 sales-performance-excel-dashboard
 1. Dataset/
-1.1 superstore_1000_rows.xlsx
+(1.1) superstore_1000_rows.xlsx
 
 2. Analysis/
-2.1 Sales_Performance_Excel_Dashboard.xlsx
+(2.1) Sales_Performance_Excel_Dashboard.xlsx
 
 3. Dashboard/
-3.1  dashboard_overview.png
-3.2  kpi_overview.png
-3.3  profit_analysis.png
+(3.1)  dashboard_overview.png
+(3.2)  kpi_overview.png
+(3.3)  profit_analysis.png
 
 
 ---
