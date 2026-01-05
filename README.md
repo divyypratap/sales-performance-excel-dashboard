@@ -16,9 +16,9 @@ sales-performance-excel-dashboard
 (2.1) Sales_Performance_Excel_Dashboard.xlsx
 
 3. Dashboard/
-(3.1)  dashboard_overview.png
-(3.2)  kpi_overview.png
-(3.3)  profit_analysis.png
+(3.1)  dashboard_overview.png,
+(3.2)  kpi_overview.png,
+(3.3)  profit_analysis.png.
 
 
 ---
