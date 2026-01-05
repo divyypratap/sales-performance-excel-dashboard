@@ -6,8 +6,7 @@ It demonstrates data cleaning, KPI calculation, profit analysis, and dashboard c
 
 ---
 
-##  Project Structure
-
+## 📁 Project Structure
 sales-performance-excel-dashboard
 │
 ├── Dataset/
@@ -20,6 +19,9 @@ sales-performance-excel-dashboard
 │ ├── dashboard_overview.png
 │ ├── kpi_overview.png
 │ └── profit_analysis.png
+
+yaml
+Copy code
 
 ---
 
