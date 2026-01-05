@@ -1,12 +1,12 @@
-# 📊 Sales Performance Analysis – Excel Dashboard Project
+#  Sales Performance Analysis – Excel Dashboard Project
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an end-to-end **Sales Performance Analysis** using Excel, based on a Superstore-style dataset.  
 It demonstrates data cleaning, KPI calculation, profit analysis, and dashboard creation — all within Excel.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 sales-performance-excel-dashboard
 │
 ├── Dataset/
@@ -25,7 +25,7 @@ Copy code
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - 1000 rows of sales data
 - Cleaned and standardized
 - Includes:
@@ -36,7 +36,7 @@ Copy code
 
 ---
 
-## 📈 Analysis Performed
+##  Analysis Performed
 - KPI Overview:
   - Total Sales
   - Total Profit
@@ -49,7 +49,7 @@ Copy code
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 - Interactive Excel dashboard
 - Visual KPIs
 - Profit-focused insights
@@ -57,7 +57,7 @@ Copy code
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel
   - Pivot Tables
   - Power Query (Cleaning)
@@ -66,7 +66,7 @@ Copy code
 
 ---
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 - End-to-end data analysis workflow
 - Business KPI interpretation
 - Dashboard storytelling using Excel
@@ -74,6 +74,6 @@ Copy code
 
 ---
 
-## 📌 Author
-**Divyy Pratap Aasdev**  
-Aspiring Data Analyst
+##  Author
+**Divyy Pratap**  
+ Data Analyst
