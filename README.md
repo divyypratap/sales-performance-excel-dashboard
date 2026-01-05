@@ -6,22 +6,20 @@ It demonstrates data cleaning, KPI calculation, profit analysis, and dashboard c
 
 ---
 
-## 📁 Project Structure
-sales-performance-excel-dashboard
-│
-├── Dataset/
-│ └── superstore_1000_rows.xlsx
-│
-├── Analysis/
-│ └── Sales_Performance_Excel_Dashboard.xlsx
-│
-├── Dashboard/
-│ ├── dashboard_overview.png
-│ ├── kpi_overview.png
-│ └── profit_analysis.png
+##  Project Structure
 
-yaml
-Copy code
+sales-performance-excel-dashboard
+1. Dataset/
+1.1 superstore_1000_rows.xlsx
+
+2. Analysis/
+2.1 Sales_Performance_Excel_Dashboard.xlsx
+
+3. Dashboard/
+3.1  dashboard_overview.png
+3.2  kpi_overview.png
+3.3  profit_analysis.png
+
 
 ---
 
